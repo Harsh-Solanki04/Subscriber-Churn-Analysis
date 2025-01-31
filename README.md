@@ -56,7 +56,7 @@ Year-over-year analysis was conducted to identify shifts in cancelation motivati
 
 Percentages of specific cancelation reasons within each year were calculated to highlight significant changes over time.
 
-6. Key Findings
+### Key Findings
 
 A large percentage of users provided only the required first reason for cancelation, with fewer selecting additional reasons.
 
@@ -66,7 +66,7 @@ Cancelation trends fluctuated over time, with certain reasons becoming more prom
 
 Some users appeared to select random reasons to bypass the cancelation process quickly, raising concerns about the accuracy of the data.
 
-7. Recommendations
+### Recommendations
 
 - Enhance the Cancelation Flow:
 

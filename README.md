@@ -86,16 +86,15 @@ Address common pain points highlighted in cancelation feedback.
 
 Enhance value propositions to better compete with alternatives in the market.
 
-- Since most users, have selected Expensive and Not Useful as the reasons to cancel, we should rollout better onboarding and provide more help early on in their subscription to ensure users and understanding the product and finding it useful. If they find the product more useful and valuable, they also many become less cost-sensitive to the value.
-- Since the most common cancelation reason for the secondary reason is Went to Competitor, we should research the market and ensure we're keeping up to date with industry trends.
+- Since most users, have selected "Expensive" and "Not Useful" as the reasons to cancel, we should rollout better onboarding and provide more help early on in their subscription to ensure users and understanding the product and finding it useful. If they find the product more useful and valuable, they also many become less cost-sensitive to the value.
+- Since the most common cancelation reason for the secondary reason is "Went to Competitor", we should research the market and ensure we're keeping up to date with industry trends.
 ### Results
 
-The following visualizations illustrate key insights from the analysis:
+The following illustrate key insights from the analysis:
 
 - Cancelation Reason Distribution – Identifying the most common reasons for churn.
   ![image](https://github.com/user-attachments/assets/91289d07-1faf-48c4-88d9-9781b9816142)
   
-- Average Number of Reasons Selected – Analyzing user engagement with the cancelation survey.
 - Yearly Cancelation Trends – Highlighting shifts in user dissatisfaction over time.
 ![image](https://github.com/user-attachments/assets/0e1ed0ca-4644-41f6-8d8d-a9a39b4c8d5c)
 

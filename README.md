@@ -93,8 +93,12 @@ Enhance value propositions to better compete with alternatives in the market.
 The following visualizations illustrate key insights from the analysis:
 
 - Cancelation Reason Distribution – Identifying the most common reasons for churn.
+  ![image](https://github.com/user-attachments/assets/91289d07-1faf-48c4-88d9-9781b9816142)
+  
 - Average Number of Reasons Selected – Analyzing user engagement with the cancelation survey.
 - Yearly Cancelation Trends – Highlighting shifts in user dissatisfaction over time.
+![image](https://github.com/user-attachments/assets/0e1ed0ca-4644-41f6-8d8d-a9a39b4c8d5c)
+
 - 81% of users are selecting at least 1 additional cancelation reason (beyond the first required one), but most users are not selecting all 3 which suggests lack of interest and frustration for the user.
 - 31% of users reported "Expensive" as the primary (first) cancelation reason. The top choices for the primary reason were "Not Useful","Expensive","Bad Customer Service" and "Went to a competitor".
 

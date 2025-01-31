@@ -1,5 +1,5 @@
 # Subscriber-Churn-Analysis
-
+(Note- Check Subscriber Churn Analysis.pdf for SQL code and discussion)
 ## Executive Summary
 
 This report analyzes subscription cancelation trends to identify key reasons for customer churn. Through SQL-based data exploration, we assess the frequency of cancelation reasons, customer behavior in selecting multiple reasons, and year-over-year trends. The analysis highlights the most common reasons for churn and provides recommendations to improve customer retention and reduce cancelations.
